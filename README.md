@@ -4,11 +4,11 @@ Laboratorio de CVDS
 # LA HERRAMIENTA MAVEN
 **Ingresar a la página de la herramienta y entender**   
 
-1. Cuál es su mayor utilidad: Se puede utilizar para crear y gestionar cualquier proyecto basado en Java.
-2. Fases de maven:  clean - validate - compile - test - package - verify- install - deploy
-3. Ciclo de vida de la construcción:  clean - default - site
-4. Para qué sirven los plugins:   
-5. Qué es y para qué sirve el repositorio central de maven:  
+1. *Cuál es su mayor utilidad:* Se puede utilizar para crear y gestionar cualquier proyecto basado en Java.
+2. *Fases de maven:*  clean - validate - compile - test - package - verify- install - deploy
+3. *Ciclo de vida de la construcción:*  clean - default - site
+4. *Para qué sirven los plugins:* Para extender las funcionalidades del codigo.
+5. *Qué es y para qué sirve el repositorio central de maven:* Es un repositorio en línea que sirve como almacén central. Su función principal es proporcionar un lugar centralizado donde los desarrolladores pueden compartir software utilizado en proyectos Maven.
 
 ## EJERCICIO DE LAS FIGURAS
 ### CREAR UN PROYECTO CON MAVEN
