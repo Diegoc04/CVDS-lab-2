@@ -2,7 +2,7 @@
 Laboratorio de CVDS 
 
 # LA HERRAMIENTA MAVEN
-**Ingresar a la página de la herramienta y entender:** 
+**Ingresar a la página de la herramienta y entender:**   
 Cuál es su mayor utilidad:   
 Fases de maven:  
 Ciclo de vida de la construcción:  
