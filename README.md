@@ -67,7 +67,8 @@ salida muestra la estructura del proyecto, similar a como se muestra a continuac
 AppTest.java
 ```
 
-![Screenshot 2024-02-05 155930](https://github.com/Diegoc04/CVDS-lab-2/assets/146139366/82381beb-7f38-415d-9ca3-767e961eaa6e)
+![tree](https://github.com/Diegoc04/CVDS-lab-2/assets/146139366/56fef9c0-1ec9-4125-afd6-c8e09fd53b75)
+
 
 
 ## AJUSTAR ALGUNAS CONFIGURACIONES EN EL PROYECTO
