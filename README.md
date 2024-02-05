@@ -76,6 +76,7 @@ Edite el archivo `pom.xml` y realize la siguiente actualización:
 
 Hay que cambiar la version del compilador de Java a la versión 8, para ello, agregue la sección `properties` antes de la sección de
 dependencias:
+
 ```xml
 <properties>
   <maven.compiler.target>1.8</maven.compiler.target>
