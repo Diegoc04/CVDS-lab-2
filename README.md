@@ -66,6 +66,9 @@ salida muestra la estructura del proyecto, similar a como se muestra a continuac
 AppTest.java
 ```
 
+![Screenshot 2024-02-05 155930](https://github.com/Diegoc04/CVDS-lab-2/assets/146139366/82381beb-7f38-415d-9ca3-767e961eaa6e)
+
+
 ## AJUSTAR ALGUNAS CONFIGURACIONES EN EL PROYECTO
 Edite el archivo `pom.xml` y realize la siguiente actualización:
 
