@@ -2,12 +2,13 @@
 Laboratorio de CVDS 
 
 # LA HERRAMIENTA MAVEN
-**Ingresar a la página de la herramienta y entender:**   
-Cuál es su mayor utilidad:   
-Fases de maven:  
-Ciclo de vida de la construcción:  
-Para qué sirven los plugins:   
-Qué es y para qué sirve el repositorio central de maven:  
+**Ingresar a la página de la herramienta y entender**   
+
+1. Cuál es su mayor utilidad:   
+2. Fases de maven:  
+3. Ciclo de vida de la construcción:  
+4. Para qué sirven los plugins:   
+5. Qué es y para qué sirve el repositorio central de maven:  
 
 Ingresar a la página de la herramienta y entender:
 - Cuál es su mayor utilidad
