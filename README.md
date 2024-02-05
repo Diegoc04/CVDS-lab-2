@@ -6,7 +6,7 @@ Laboratorio de CVDS
 
 1. Cuál es su mayor utilidad: Se puede utilizar para crear y gestionar cualquier proyecto basado en Java.
 2. Fases de maven:  clean - validate - compile - test - package - verify- install - deploy
-3. Ciclo de vida de la construcción:  
+3. Ciclo de vida de la construcción:  clean - default - site
 4. Para qué sirven los plugins:   
 5. Qué es y para qué sirve el repositorio central de maven:  
 
