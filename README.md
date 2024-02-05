@@ -42,6 +42,9 @@ Para ver el conjunto de archivos y directorios creados por el comando `mvn` ejec
 $ tree
 ```
 
+![Screenshot 2024-02-05 163424](https://github.com/Diegoc04/CVDS-lab-2/assets/146139366/09677c5b-98b3-445b-8efa-3e4cb68491fc)
+
+
 En algunos sistemas operativos, este comando no funciona correctamente o puede requerir un parámetro (por ejemplo: `tree /f`). En caso que funcione, la
 salida muestra la estructura del proyecto, similar a como se muestra a continuación:
 ```sh
