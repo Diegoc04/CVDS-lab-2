@@ -95,6 +95,9 @@ Para compilar ejecute el comando:
 $ mvn package
 ```
 
+![Screenshot 2024-02-05 164511](https://github.com/Diegoc04/CVDS-lab-2/assets/146139366/7b47470a-add3-4427-a7dd-a88495e35bb4)
+
+
 Si maven no actualiza las dependencias utilice la opción `-U` así:
 ```sh
 $ mvn -U package
