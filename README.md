@@ -107,6 +107,8 @@ $ mvn -U package
 
 *Busque cómo ejecutar desde línea de comandos, un proyecto maven y verifique la salida cuando se ejecuta con la clase `App.java` como parámetro en "mainClass". Tip: https://www.mojohaus.org/exec-maven-plugin/usage.html*
 
+* Se utiliza el siguiente comando: mvn exec:java -Dexec.mainClass="com.example.Main" [-Dexec.args="argumento1"]
+
 Realice el cambio en la clase `App.java` para crear un saludo personalizado, basado en los parámetros de entrada a la aplicación. 
 
 Utilizar la primera posición del parámetro que llega al método "main" para realizar elsaludo personalizado, en caso que no sea posible, se debe mantener el saludo como se encuentra actualmente:
