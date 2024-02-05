@@ -26,6 +26,9 @@ Id del Artefacto: Patterns
 Paquete: edu.eci.cvds.patterns.archetype
 ```
 
+![Screenshot 2024-02-05 155930](https://github.com/Diegoc04/CVDS-lab-2/assets/146139366/1e9c5296-fc1c-49f6-9f79-612ba91bd2b7)
+
+
 Se debió haber creado en el directorio, un nuevo proyecto `Patterns` a partir de un modelo o arquetipo, que crea un conjunto de directorios con un conjunto de archivos básicos.
 
 Cambie al directorio `Patterns`:
