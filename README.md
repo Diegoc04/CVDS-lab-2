@@ -13,7 +13,6 @@ Laboratorio de CVDS
 ## EJERCICIO DE LAS FIGURAS
 ### CREAR UN PROYECTO CON MAVEN
 Buscar cómo se crea un proyecto maven con ayuda de los arquetipos (archetypes).
-https://www.youtube.com/watch?v=0ud4pHxH_bo&ab_channel=Matoosfe
 
 Busque cómo ejecutar desde línea de comandos el objetivo "generate" del plugin "archetype", con los siguientes parámetros:
 ```yml
