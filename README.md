@@ -86,6 +86,9 @@ dependencias:
 </properties>
 ```
 
+![Screenshot 2024-02-05 163424](https://github.com/Diegoc04/CVDS-lab-2/assets/146139366/97866d16-5614-490e-86e3-7c2619cf1677)
+
+
 ## COMPILAR Y EJECUTAR
 Para compilar ejecute el comando:
 ```sh
