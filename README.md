@@ -113,7 +113,7 @@ $ mvn -U package
 
 ![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/c11a89d2-c54e-4ecf-a304-5bb89073bf81)
 
-* Para que los cambios se vean reflejados necesitamos utilizar el comando mvn compile
+* Para que los cambios se vean reflejados necesitamos utilizar el comando ´mvn compile´
 
   ![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/3bc6fac4-5a82-4e57-9d43-da04b6a9a331)
   
