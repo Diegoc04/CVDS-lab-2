@@ -111,21 +111,31 @@ $ mvn -U package
 
 *Realice el cambio en la clase `App.java` para crear un saludo personalizado, basado en los parámetros de entrada a la aplicación.*
 
+*Utilizar la primera posición del parámetro que llega al método "main" para realizar el saludo personalizado, en caso que no sea posible, se debe mantener el saludo como se encuentra actualmente*
+
 ![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/9edfc123-c25c-4f52-94d7-8ef532c545da)
 
 * Para que los cambios se vean reflejados necesitamos utilizar el comando ```mvn compile```
 
 ![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/3bc6fac4-5a82-4e57-9d43-da04b6a9a331)
   
-Utilizar la primera posición del parámetro que llega al método "main" para realizar el saludo personalizado, en caso que no sea posible, se debe mantener el saludo como se encuentra actualmente:
+*Buscar cómo enviar parámetros al plugin "exec".*
 
-Buscar cómo enviar parámetros al plugin "exec".
+* Utilizando -Dexec.args="parametro"
 
-Ejecutar nuevamente la clase desde línea de comandos y verificar la salida: Hello World!
+*Ejecutar nuevamente la clase desde línea de comandos y verificar la salida: Hello World!*
 
-Ejecutar la clase desde línea de comandos enviando su nombre como parámetro y verificar la salida. Ej: Hello Pepito!
+![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/d1147087-4e75-46ff-afd8-82d976baec70)
 
-Ejecutar la clase con su nombre y apellido como parámetro. ¿Qué sucedió?
+*Ejecutar la clase desde línea de comandos enviando su nombre como parámetro y verificar la salida. Ej: Hello Pepito!*
+
+![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/9295730c-af39-434d-b928-8834b804fa26)
+
+*Ejecutar la clase con su nombre y apellido como parámetro. ¿Qué sucedió?*
+
+![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/ba2296ae-6d01-4c08-b9ce-a585bc6c495c)
+
+* Solo acepto el nombre como parametro, el apellido lo omitió.
 
 Verifique cómo enviar los parámetros de forma "compuesta" para que el saludo se realice con nombre y apellido.
 
