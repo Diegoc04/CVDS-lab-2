@@ -111,7 +111,7 @@ $ mvn -U package
 
 *Realice el cambio en la clase `App.java` para crear un saludo personalizado, basado en los parámetros de entrada a la aplicación.*
 
-![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/7f25c74a-333d-4108-bbda-aba8fdc6fd5b)
+![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/9edfc123-c25c-4f52-94d7-8ef532c545da)
 
 * Para que los cambios se vean reflejados necesitamos utilizar el comando ```mvn compile```
 
