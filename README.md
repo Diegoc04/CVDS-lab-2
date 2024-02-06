@@ -109,7 +109,16 @@ $ mvn -U package
 
 * Se utiliza el siguiente comando: mvn exec:java -Dexec.mainClass="com.example.Main" [-Dexec.args="argumento1"]
 
-Realice el cambio en la clase `App.java` para crear un saludo personalizado, basado en los parámetros de entrada a la aplicación. 
+*Realice el cambio en la clase `App.java` para crear un saludo personalizado, basado en los parámetros de entrada a la aplicación.*
+
+![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/c11a89d2-c54e-4ecf-a304-5bb89073bf81)
+
+* Para que los cambios se vean reflejados necesitamos utilizar el comando mvn compile
+
+  ![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/3bc6fac4-5a82-4e57-9d43-da04b6a9a331)
+  
+![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/a1f5d534-81a9-45a5-ade6-aaaa4eeedb3e)
+
 
 Utilizar la primera posición del parámetro que llega al método "main" para realizar el saludo personalizado, en caso que no sea posible, se debe mantener el saludo como se encuentra actualmente:
 
