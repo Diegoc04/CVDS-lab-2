@@ -152,6 +152,8 @@ Ejecutar nuevamente y verificar la salida en consola. Ej: Hello Pepito Perez!
 
 ![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/98ac7818-87e4-45f9-92ab-ecd366f9aff9)
 
+![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/1e6d0221-f0af-488a-b6e2-d132eaa70910)
+
 *Cree una interfaz llamada `Shape.java` en el directorio `src/main/java/edu/eci/cvds/patterns/shapes` de la siguiente manera:*
 
 ```java
