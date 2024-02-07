@@ -115,7 +115,7 @@ $ mvn -U package
 
 ![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/9edfc123-c25c-4f52-94d7-8ef532c545da)
 
-* Para que los cambios se vean reflejados necesitamos utilizar el comando ```mvn compile```
+* Para que los cambios se vean reflejados necesitamos utilizar el comando mvn compile
 
 ![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/3bc6fac4-5a82-4e57-9d43-da04b6a9a331)
   
@@ -135,11 +135,17 @@ $ mvn -U package
 
 ![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/ba2296ae-6d01-4c08-b9ce-a585bc6c495c)
 
-* Solo acepto el nombre como parametro, el apellido lo omitió.
+* Solo aceptó el nombre como parametro, el apellido lo omitió.
 
 Verifique cómo enviar los parámetros de forma "compuesta" para que el saludo se realice con nombre y apellido.
 
+* Podemos separar los parametros con las posiciones de la lista args[] (parametro1 = args[0], parametro2 = args[1])
+
+ ![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/fb9e23e5-efc5-413a-b960-d612c943d5d7)
+
 Ejecutar nuevamente y verificar la salida en consola. Ej: Hello Pepito Perez!
+
+![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/889b00a5-811e-4f30-b25e-d5d84e421740)
 
 ## HACER EL ESQUELETO DE LA APLICACIÓN
 Cree el paquete `edu.eci.cvds.patterns.shapes` y el paquete `edu.eci.cvds.patterns.shapes.concrete`.
