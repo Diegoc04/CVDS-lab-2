@@ -161,6 +161,7 @@ public interface Shape {
     public int getNumberOfEdges();
 }
 ```
+![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/f982dc1e-03e9-4ab6-8f7b-ab569b9b06f2)
 
 Cree una enumeración llamada `RegularShapeType.java` en el directorio `src/main/java/edu/eci/cvds/patterns/shapes` así:
 
@@ -171,6 +172,7 @@ public enum RegularShapeType {
     Triangle, Quadrilateral, Pentagon, Hexagon
 }
 ```
+![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/03a7a525-b24c-4637-9ddb-1f6ccb16736f)
 
 En el directorio `src/main/java/edu/eci/cvds/patterns/shapes/concrete` cree las diferentes clases (Triangle, Quadrilateral, Pentagon, Hexagon), que implementen la interfaz creada y retornen el número correspondiente de vértices que tiene la figura. 
 
@@ -186,6 +188,7 @@ public class Triangle implements Shape {
     }
 }
 ```
+![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/66efbbaf-82de-4a33-8f97-84bc87e56243)
 
 Cree el archivo `ShapeMain.java` en el directorio `src/main/java/edu/eci/cvds/patterns/shapes` con el metodo main:
 ```java
@@ -217,6 +220,7 @@ public class ShapeMain {
   }
 }
 ```
+![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/2d793944-8dfb-4e3a-8302-5a7fa5b3b019)
 
 Analice y asegúrese de entender cada una de las instrucciones que se encuentran en todas las clases que se crearon anteriormente. Cree el archivo `ShapeFactory.java` en el directorio `src/main/java/edu/eci/cvds/patterns/shapes` implementando el patrón fábrica (Hint: https://refactoring.guru/design-patterns/catalog), haciendo uso de la instrucción switch-case de Java y usando las enumeraciones.
 
