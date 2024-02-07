@@ -224,9 +224,15 @@ public class ShapeMain {
 ```
 ![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/2d793944-8dfb-4e3a-8302-5a7fa5b3b019)
 
-Analice y asegúrese de entender cada una de las instrucciones que se encuentran en todas las clases que se crearon anteriormente. Cree el archivo `ShapeFactory.java` en el directorio `src/main/java/edu/eci/cvds/patterns/shapes` implementando el patrón fábrica (Hint: https://refactoring.guru/design-patterns/catalog), haciendo uso de la instrucción switch-case de Java y usando las enumeraciones.
+*Analice y asegúrese de entender cada una de las instrucciones que se encuentran en todas las clases que se crearon anteriormente. Cree el archivo `ShapeFactory.java` en el directorio `src/main/java/edu/eci/cvds/patterns/shapes` implementando el patrón fábrica (Hint: https://refactoring.guru/design-patterns/catalog), haciendo uso de la instrucción switch-case de Java y usando las enumeraciones.*
+
+![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/209c1acf-e937-41fe-a957-ee822ad81277)
 
 ¿Cuál fábrica hiciste? y ¿Cuál es mejor?
+
+* Hicimos la fabrica simple debido a que es la mas facil de implementar pero la mejor fabrica depende de las necesidades y requisitos del diseño, que en este caso y como estamos aprendiendo a usar maven, seria la fabrica simple.
+
+
 - Simple Factory:
 
 ![imagen](https://github.com/PDSW-ECI/labs/assets/4140058/0788a0b7-a071-4b90-ac3f-5982289ff3b3)
@@ -239,10 +245,23 @@ Analice y asegúrese de entender cada una de las instrucciones que se encuentran
 ![imagen](https://github.com/PDSW-ECI/labs/assets/4140058/1c79a12b-21d4-46be-8f19-40f3b62b6af7)
 
 Ejecute múltiples veces la clase ShapeMain, usando el plugin exec de maven con los siguientes parámetros y verifique la salida en consola para cada una:
-- Sin parámetros
-- Parámetro: qwerty
-- Parámetro: pentagon
-- Parámetro: Hexagon
 
-¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
+**- Sin parámetros**
 
+![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/5eb22415-3e15-481a-ac8e-a3f7e9c12ab5)
+
+**- Parámetro: qwerty**
+
+![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/c3cf1a68-f3fb-4398-a2ce-65e85fa02e44)
+
+**- Parámetro: pentagon**
+
+![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/4d546e32-c73d-4814-83a8-1f544254e34b)
+
+**- Parámetro: Hexagon**
+
+![image](https://github.com/Diegoc04/CVDS-lab-2/assets/89041250/77cf6fb6-b192-4835-95e4-c08bb7a28548)
+  
+*¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?*
+
+* Unicamente Hexagon funciona correctamente, en el caso de ´pentagon´ no funciona debido a que empieza con ´p´ minuscula y para que funcione se necesita con ´P´ mayuscula, ´qwerty´ no es una opción valida de parametro y sin parametros nos menciona que necesita parametros.
